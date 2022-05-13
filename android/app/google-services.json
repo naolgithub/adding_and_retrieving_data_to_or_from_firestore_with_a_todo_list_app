@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "761903033342",
+    "project_id": "todo-list-with-firestore",
+    "storage_bucket": "todo-list-with-firestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761903033342:android:a11f3d357d0e9c75872eaf",
+        "android_client_info": {
+          "package_name": "com.example.adding_and_retrieving_data_to_or_from_firestore_with_a_todo_list_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761903033342-ndu3bu6gebuad8915mauk2g362ghg459.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0JH3JBYpD0OjwbIODTyeuAgnt2_Dvkfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761903033342-ndu3bu6gebuad8915mauk2g362ghg459.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "761903033342-6f7inn5bhditj5gjroung2ah7lbjt062.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.addingAndRetrievingDataToOrFromFirestoreWithATodoListApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
